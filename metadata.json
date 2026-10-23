@@ -1,0 +1,6 @@
+{
+  "name": "CircuitPedia - The world of circuits simplified",
+  "description": "The world of circuits simplified. Interactive study repository, real-time waveform graphs, dynamic tabulation, and live circuit simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
